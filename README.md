@@ -1,2 +1,2 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+# Forage Lyft Backend-Engineering Virtual Experience Program
+This repo contains the solution for the case study
